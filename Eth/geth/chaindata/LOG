@@ -1,0 +1,42 @@
+=============== Jan 8, 2022 (IST) ===============
+19:23:09.525612 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:23:09.533611 db@open opening
+19:23:09.537613 version@stat F·[] S·0B[] Sc·[]
+19:23:09.539614 db@janitor F·2 G·0
+19:23:09.539614 db@open done T·6.0035ms
+19:23:09.541643 db@close closing
+19:23:09.542610 db@close done T·967µs
+=============== Jan 8, 2022 (IST) ===============
+19:24:14.004973 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:24:14.006032 version@stat F·[] S·0B[] Sc·[]
+19:24:14.006032 db@open opening
+19:24:14.006032 journal@recovery F·1
+19:24:14.014196 journal@recovery recovering @1
+19:24:14.015790 memdb@flush created L0@2 N·10 S·613B "H]\x03..j\xaa\f,v3":"r\x00\x00..j\xaa\f,v5"
+19:24:14.022235 version@stat F·[1] S·613B[613B] Sc·[0.25]
+19:24:14.038128 db@janitor F·3 G·0
+19:24:14.038780 db@open done T·32.7482ms
+19:24:52.256525 db@close closing
+19:24:52.256525 db@close done T·0s
+=============== Jan 8, 2022 (IST) ===============
+19:25:02.436441 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:25:02.436441 version@stat F·[1] S·613B[613B] Sc·[0.25]
+19:25:02.436441 db@open opening
+19:25:02.436441 journal@recovery F·1
+19:25:02.441441 journal@recovery recovering @3
+19:25:02.442440 memdb@flush created L0@5 N·10 S·380B "Dat..ion,v12":"unc..own,v18"
+19:25:02.448443 version@stat F·[2] S·993B[993B] Sc·[0.50]
+19:25:02.454443 db@janitor F·4 G·0
+19:25:02.454443 db@open done T·18.0026ms
+19:39:40.732386 db@close closing
+19:39:40.733511 db@close done T·1.1247ms
+=============== Jan 8, 2022 (IST) ===============
+19:40:41.107596 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:40:41.107596 version@stat F·[2] S·993B[993B] Sc·[0.50]
+19:40:41.107596 db@open opening
+19:40:41.107596 journal@recovery F·1
+19:40:41.113626 journal@recovery recovering @6
+19:40:41.115594 memdb@flush created L0@8 N·6 S·313B "Sna..tor,v26":"unc..own,v23"
+19:40:41.122595 version@stat F·[3] S·1KiB[1KiB] Sc·[0.75]
+19:40:41.132657 db@janitor F·5 G·0
+19:40:41.133600 db@open done T·26.0038ms
